@@ -1,3 +1,5 @@
+#Get the data from: https://drive.google.com/drive/folders/1NjtApdagrZ5p_31CUmX3lpTv6nlpINbj?usp=drive_link
+
 # Sprint project 02
 > Home Credit Default Risk
 
